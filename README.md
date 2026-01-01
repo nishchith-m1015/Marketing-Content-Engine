@@ -1,4 +1,4 @@
-# 🎬 Brand Infinity Engine
+# Brand Infinity Engine
 
 > **AI-Powered Marketing Content Pipeline** — Transform text into cinematic video campaigns, fully automated.
 
